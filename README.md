@@ -30,16 +30,34 @@ logisches schnelles Denken
   
     {"items": [
       {"type": "image", "path": "image1.jpg"},
-      {"type": "textmessage", "content": "Geben Sie die Lösung an"},
+      {"type": "textmessage", "content": "Geben Sie die Lösung an."},
       {"type": "textinput", "id": "frage7"}
     ], "timelimit":null, "actions": ["continue"]},
   
     {"items": [
       {"type": "textmessage", "content": "logisch = ?"},
       {"type": "image", "path": "image2.jpg"},
-      {"type": "textmessage", "content": "Geben Sie die Lösung an"},
+      {"type": "textmessage", "content": "Geben Sie die Lösung an."},
       {"type": "textinput", "id": "frage8"}
     ], "timelimit":null, "actions": ["continue"]},
+  
+    {"items": [
+      {"type": "image", "path": "image2.jpg"},
+      {"type": "textmessage", "content": "Geben Sie die Lösung zu 8 an."},
+      {"type": "textinput", "id": "frage9"}
+    ], "timelimit":null, "actions": ["continue"]},
+  
+    {"items": [
+      {"type": "textmessage", "content": "Arbeitsplatz / Zunge / Elefant / ?"},
+      {"type": "textinput", "id": "frage10"}
+    ], "timelimit":null, "actions": ["continue"]},
+  
+    {"items": [
+      {"type": "image", "path": "image3.jpg"},
+      {"type": "textmessage", "content": "Geben Sie die Lösung an."},
+      {"type": "textinput", "id": "frage11"}
+    ], "timelimit":null, "actions": ["continue"]},
+    
     
     {"items": [{"type": "textmessage", "content": "Thank you very much for your participation."}], "actions": []}
   ]
