@@ -35,20 +35,20 @@ logisches schnelles Denken
     ], "timelimit":null, "actions": ["continue"]},
   
     {"items": [
-      {"type": "image", "path": "image1.jpg"},
+      {"type": "image", "path": "1.quadrate.jpg"},
       {"type": "textmessage", "content": "Geben Sie die Lösung an."},
       {"type": "textinput", "id": "frage7"}
     ], "timelimit":null, "actions": ["continue"]},
   
     {"items": [
       {"type": "textmessage", "content": "logisch = ?"},
-      {"type": "image", "path": "image2.jpg"},
+      {"type": "image", "path": "2abcschlüssel.jpg"},
       {"type": "textmessage", "content": "Geben Sie die Lösung an."},
       {"type": "textinput", "id": "frage8"}
     ], "timelimit":null, "actions": ["continue"]},
   
     {"items": [
-      {"type": "image", "path": "image3.jpg"},
+      {"type": "image", "path": "3zahlenschlüssel.jpg"},
       {"type": "textmessage", "content": "Geben Sie die Lösung zu 8 an."},
       {"type": "textinput", "id": "frage9"}
     ], "timelimit":null, "actions": ["continue"]},
@@ -59,7 +59,7 @@ logisches schnelles Denken
     ], "timelimit":null, "actions": ["continue"]},
   
     {"items": [
-      {"type": "image", "path": "image4.jpg"},
+      {"type": "image", "path": "4elephant.jpg"},
       {"type": "textmessage", "content": "Geben Sie die Lösung an."},
       {"type": "textinput", "id": "frage11"}
     ], "timelimit":null, "actions": ["continue"]},
